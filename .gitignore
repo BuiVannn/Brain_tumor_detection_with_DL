@@ -1,0 +1,17 @@
+dataset_1_balanced/
+dataset_1_processed/
+dataset_1_reorganized/
+
+dataset_2_balanced/
+dataset_2_processed/
+dataset_2_reorganized/
+
+dataset_3_balanced/
+dataset_3_processed/
+dataset_3_can_gan_lai_nhan/
+
+phanloaidataset_3.py
+phloai_dataset3.ipynb
+
+best_resnet_attention_model.h5
+
